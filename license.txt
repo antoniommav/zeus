@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zeus
+* source:	https://sketchfab.com/3d-models/zeus-dc7eeeb250f74f93b183378a3dba01f3
+* author:	noe-3d.at (https://sketchfab.com/www.noe-3d.at)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zeus" (https://sketchfab.com/3d-models/zeus-dc7eeeb250f74f93b183378a3dba01f3) by noe-3d.at (https://sketchfab.com/www.noe-3d.at) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

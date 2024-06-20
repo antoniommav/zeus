@@ -1,0 +1,11 @@
+Model Information:
+* title:	"Zeus", processed
+* source:	https://sketchfab.com/3d-models/zeus-processed-09fb5b7068da4e84bc0f3585d658918d
+* author:	plasmaernst (https://sketchfab.com/plasmaernst)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on ""Zeus", processed" (https://sketchfab.com/3d-models/zeus-processed-09fb5b7068da4e84bc0f3585d658918d) by plasmaernst (https://sketchfab.com/plasmaernst) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
